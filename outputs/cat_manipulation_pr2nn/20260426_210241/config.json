@@ -1,0 +1,15 @@
+{
+  "num_images": 20,
+  "image_side": 96,
+  "feature_side": 24,
+  "noise_sigma": 0.08,
+  "gaussian_kernel": 9,
+  "gaussian_sigma": 2.0,
+  "border_width": 4,
+  "seed": 23,
+  "data_dir": "./data",
+  "output_dir": "./outputs/cat_manipulation_pr2nn",
+  "peng_dir": "auto",
+  "no_download": false,
+  "resolved_peng_dir": "/Users/sanskriti/Documents/GitHub/exponential_extension/outputs/gradient_diffusion_experiments/20260426_204625/models/Peng2023Robust/images/noise_to_cat/cat"
+}
