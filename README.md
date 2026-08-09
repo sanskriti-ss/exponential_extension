@@ -109,3 +109,9 @@ python cat_manipulation_pr2nn.py \
   --num-images 3000 \
   --allow-replacement \
   --no-save-images
+
+## Caveats
+- Synthetic Peng set size is currently small (N=20).
+- Feature resolution (feature_side=24) affects absolute PR/2NN values.
+- Replacement sampling was used to reach N=3000 STL10 cats.
+- These experiments critique interpretation of the estimators; they do not by themselves fully refute the paper’s PM definition.
